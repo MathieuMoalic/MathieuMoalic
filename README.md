@@ -2,8 +2,8 @@ Hi there, I'm Mathieu
 
 
 :zap: Github Stats
-
-<img align="left" alt="MathieuMoalic's Github Stats" src="https://github-readme-stats.mathieumoalic.vercel.app/api?username=MathieuMoalic&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieumoalic)](https://github.com/mathieumoalic/github-readme-stats)
+<!-- <img align="left" alt="MathieuMoalic's Github Stats" src="https://github-readme-stats.mathieumoalic.vercel.app/api?username=MathieuMoalic&show_icons=true&hide_border=true" /> -->
 
 
 
