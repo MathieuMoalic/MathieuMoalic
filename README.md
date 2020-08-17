@@ -1,11 +1,11 @@
 Hi there, I'm Mathieu
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="MathieuMoalic's Github Stats" src="https://github-readme-stats.mathieumoalic.vercel.app/api?username=MathieuMoalic&show_icons=true&hide_border=true" />
+:zap: Github Stats
 
-</details>
+<img align="left" alt="MathieuMoalic's Github Stats" src="https://github-readme-stats.mathieumoalic.vercel.app/api?username=MathieuMoalic&show_icons=true&hide_border=true" />
+
+
 
 <!-- ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
