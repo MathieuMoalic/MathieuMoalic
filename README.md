@@ -15,4 +15,4 @@
 <a href="https://linkedin.com/in/mathieu-moalic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mathieu-moalic" height="30" width="30" /></a>
 </p>
 
-[![Spotify](https://mathieumoalic.vercel.app/api/spotify)](https://open.spotify.com/user/ripirpk)
+[<img src="https://novatorem.mathieumoalic.vercel.app/" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ripirpk)
