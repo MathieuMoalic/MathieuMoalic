@@ -15,6 +15,6 @@
 <a href="https://linkedin.com/in/mathieu-moalic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mathieu-moalic" height="30" width="30" /></a>
 </p>
 
-[<img src="https://https://novatorem.mathieumoalic.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ripirpk)
+[<img src="https://https://novatorem.mathieumoalic.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
