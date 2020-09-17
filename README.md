@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="hhttps://novatorem-five-lake.vercel.app/" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/bb5cf71b48ef4807993937a092cef558)
 
 <!-- AQA_6lYi-dBu7JjYN0EwRWoSFJRPsh-XtHA_rm2YX033PF1fOswQnwjy2-XrONqXEWu5pdgtJAcipjP9Dv2wVtlqxU883jsiWb5QST2nJ2b4FZQi5ZUqdVRgaPN4J34gnaop-PA6UrxVryocRyjm6I6830Z8VpuYNbXh5JXpte6CwGD-ZRblFWeZsazPzAGwGJY995CnMLsdYgG0pHE5lpPP0mq6m83jmhhggSsxDyj4kBuyJHQ -->
 <!-- YmI1Y2Y3MWI0OGVmNDgwNzk5MzkzN2EwOTJjZWY1NTg6OTQ0NGQyNDM4ZTRmNGJlMGE3MjljMGM3MzQwMzI1ODU -->
