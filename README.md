@@ -1,13 +1,4 @@
-Hi there, I'm Mathieu
-
-<!--
-:zap: Github Stats
-[![Top Langs](https/://github-readme-stats.vercel.app/api/top-langs/?username=mathieumoalic)](https://github.com/mathieumoalic/github-readme-stats)
- <img align="left" alt="MathieuMoalic's Github Stats" src="https://github-readme-stats.mathieumoalic.vercel.app/api?username=MathieuMoalic&show_icons=true&hide_border=true" /> -->
-
-
-
-<!-- ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -22,6 +13,11 @@ Hi there, I'm Mathieu
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+<!-- AQA_6lYi-dBu7JjYN0EwRWoSFJRPsh-XtHA_rm2YX033PF1fOswQnwjy2-XrONqXEWu5pdgtJAcipjP9Dv2wVtlqxU883jsiWb5QST2nJ2b4FZQi5ZUqdVRgaPN4J34gnaop-PA6UrxVryocRyjm6I6830Z8VpuYNbXh5JXpte6CwGD-ZRblFWeZsazPzAGwGJY995CnMLsdYgG0pHE5lpPP0mq6m83jmhhggSsxDyj4kBuyJHQ -->
+<!-- YmI1Y2Y3MWI0OGVmNDgwNzk5MzkzN2EwOTJjZWY1NTg6OTQ0NGQyNDM4ZTRmNGJlMGE3MjljMGM3MzQwMzI1ODU -->
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic YmI1Y2Y3MWI0OGVmNDgwNzk5MzkzN2EwOTJjZWY1NTg6OTQ0NGQyNDM4ZTRmNGJlMGE3MjljMGM3MzQwMzI1ODU" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQA_6lYi-dBu7JjYN0EwRWoSFJRPsh-XtHA_rm2YX033PF1fOswQnwjy2-XrONqXEWu5pdgtJAcipjP9Dv2wVtlqxU883jsiWb5QST2nJ2b4FZQi5ZUqdVRgaPN4J34gnaop-PA6UrxVryocRyjm6I6830Z8VpuYNbXh5JXpte6CwGD-ZRblFWeZsazPzAGwGJY995CnMLsdYgG0pHE5lpPP0mq6m83jmhhggSsxDyj4kBuyJHQ" https://accounts.spotify.com/api/token
 
 ### Connect with me:
 
@@ -59,13 +55,13 @@ Hi there, I'm Mathieu
 
 ### 📺 Latest YouTube Videos
 
-
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-
+<!-- YOUTUBE:START -->
+- [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of codeSTACKr Dark Theme](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
+- [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
+- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
+- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
+- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
+<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
@@ -73,13 +69,13 @@ Hi there, I'm Mathieu
 
 ### 📕 Latest Blog Posts
 
-
+<!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
 
@@ -88,13 +84,13 @@ Hi there, I'm Mathieu
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
-
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
+2. 🎉 Merged PR [#2](https://github.com//codeSTACKr/codestackr-vscode-theme/pull/2) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#1](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
+4. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
+5. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+<!--END_SECTION:activity-->
 
 </details>
 
@@ -113,5 +109,4 @@ Hi there, I'm Mathieu
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
-
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
