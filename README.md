@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a micromagnetic postprocessing library.**
 
-- 📫 How to reach me **mathieu.q.moalic@gmail.com**
+- 📫 How to reach me **matmoa@pm.me**
 <a href="https://linkedin.com/in/mathieu-moalic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mathieu-moalic" height="30" width="30" /></a>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ripirpk)
