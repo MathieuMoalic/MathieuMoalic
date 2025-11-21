@@ -13,7 +13,7 @@ I study the **static and dynamic behavior of micromagnetic systems** — coupled
 - **[VS Code MX3](https://github.com/MathieuMoalic/vscode-mx3)** — syntax + run support for `.mx3` files right inside VS Code.  
 - **Boued** — my own **grocery list** app (FastAPI + SvelteKit), self-hostable.  
 - **Pleustradenn** — a **workout tracker** (FastAPI + SvelteKit), self-hostable.  
-- **Clavarté** — QMK for my custom 32 keys split keyboad.  
+- **Clavarté** — QMK for my custom 42 keys split keyboad.  
 - **NixOS config** — reproducible configs for laptop, workstation, home-server, GPU nodes.
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
