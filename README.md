@@ -1,34 +1,66 @@
 # Hi, I'm Mathieu 👋
 
-Physics PhD student in **Poznań, Poland** at **Adam Mickiewicz University (AMU)**.
+**Software Engineer · Physics PhD · Systems / HPC / Simulation**
 
-Check out my personal website at https://matmoa.eu
+I'm a systems-focused software engineer based in Poland. I build performance-sensitive numerical, data, and backend software, primarily in **Go, Python, Rust, and C++**.
 
-I study the **static and dynamic behavior of micromagnetic systems** — coupled skyrmions, spin-wave generation, antidot lattices — and I build the tools I need to simulate and analyze them. I mostly use **Python, Rust, Nix, Svelte/Ts and Go**.
+My background is in computational physics, where I moved from using simulation tools to designing and building them. I'm particularly interested in **high-performance systems, numerical software, optimization, data-intensive applications, and developer tooling**.
 
-## What I’m building 🚀
+🌐 [matmoa.eu](https://matmoa.eu) · 💼 [LinkedIn](https://www.linkedin.com/in/mathieu-moalic/)
 
-- **[Amumax](https://github.com/MathieuMoalic/amumax)** — a MuMax3 fork aimed at a smoother Python workflow: improved **Web UI**, Zarr-backed outputs, and friendlier post-processing with `pyzfn`.  
-- **pyzfn** — Python post-processing for Amumax/Zarr data (spectra, viz, export). → PyPI: https://pypi.org/project/pyzfn/  
-- **[VS Code MX3](https://github.com/MathieuMoalic/vscode-mx3)** — syntax + run support for `.mx3` files right inside VS Code.  
-- **Boued** — my own **grocery list** app (FastAPI + SvelteKit), self-hostable.  
-- **Pleustradenn** — a **workout tracker** (FastAPI + SvelteKit), self-hostable.  
-- **Clavarté** — QMK for my custom 42 keys split keyboad.  
-- **NixOS config** — reproducible configs for laptop, workstation, home-server, GPU nodes.
+## Selected projects 🚀
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![LaTeX](https://img.shields.io/badge/typst-%23002080.svg?style=for-the-badge&logo=typst&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Podman](https://img.shields.io/badge/podman-%230db7ed.svg?style=for-the-badge&logo=podman&logoColor=white)
+### [AMUmax](https://github.com/MathieuMoalic/amumax)
+
+**Go · CUDA · HPC · Zarr**
+
+High-performance micromagnetic simulation framework based on MuMax3. I'm the main developer and systems architect, working across the simulation engine, concurrency, data I/O, and developer experience.
+
+I redesigned the large-scale simulation output pipeline around **Zarr**, improving data-processing performance by roughly **10×**, and integrated a web interface for real-time visualization and simulation control.
+
+### [pyzfn](https://github.com/MathieuMoalic/pyzfn)
+
+**Python · NumPy · SciPy · Zarr**
+
+Scientific-computing library for processing and analyzing AMUmax simulation data.
+
+It provides tools for working with large multidimensional datasets, including FFT-based spectral analysis, mode extraction, visualization, and simulation-data export.
+
+📦 [PyPI](https://pypi.org/project/pyzfn/)
+
+### [Mont](https://github.com/MathieuMoalic/mont)
+
+**Rust · Axum · SQLx · SQLite · Flutter**
+
+Cross-platform fitness tracking application with a Rust backend and Flutter web/Android frontend.
+
+Supports workout and body-weight tracking plus run ingestion and analytics, including route maps, heart rate, pace, elevation, weekly volume, and fitness trends. The project includes automated Rust/Flutter checks and full-stack E2E testing.
+
+### [gpx2img](https://github.com/MathieuMoalic/gpx2img)
+
+**Python · OpenStreetMap · GPX · Geospatial tooling**
+
+Tool for turning GPX routes and OpenStreetMap data into tiled `.img` maps for Zepp OS/Amazfit devices.
+
+It computes route-intersecting slippy-map tiles, extracts the required OSM data, compiles individual map tiles, and exposes both CLI and web workflows.
+
+### [VS Code MX3](https://github.com/MathieuMoalic/vscode-mx3)
+
+**TypeScript · Developer tooling**
+
+VS Code extension for `.mx3` simulation files, providing syntax highlighting and direct execution support for MuMax3/AMUmax workflows.
+
+## Toolbox 🛠️
+
+**Languages:** Go · Python · Rust · C++ · SQL · TypeScript
+**Systems:** Linux · NixOS · Git · Docker/Podman · CI/CD · APIs · Testing
+**Numerical & Data:** CUDA · NumPy · SciPy · Pandas · Zarr · Numerical optimization
+**Application development:** Axum · SQLite · Flutter · Svelte
+
+## Background 🔬
+
+I completed a **PhD in computational physics**, focused on numerical simulations of collective spin-wave dynamics in complex magnetic systems.
+
+Along the way, I've published **13 research papers**, co-supervised Master's students, taught simulation courses, led funded R&D projects, and won the **INTERMAG Sensor Challenge twice**.
+
+I enjoy building software where **performance, modeling, and real-world engineering problems meet**.
